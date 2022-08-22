@@ -18,5 +18,8 @@
   "publishConfig": {
     "naxos84:regitry": "https://npm.pkg.github.com"
   },
-  "homepage": "https://github.com/Naxos84/my-test-package#readme"
+  "homepage": "https://github.com/Naxos84/my-test-package#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }
