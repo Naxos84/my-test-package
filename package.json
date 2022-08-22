@@ -1,0 +1,19 @@
+{
+  "name": "@naxos84/my-test-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naxos84/my-test-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naxos84/my-test-package/issues"
+  },
+  "homepage": "https://github.com/Naxos84/my-test-package#readme"
+}
