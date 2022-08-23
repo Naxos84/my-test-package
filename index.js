@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 const myFunctions = {
     sum(a, b) {
         console.log("my sum");
@@ -18,4 +17,4 @@ const myFunctions = {
         return a / b;
     },
 };
-exports.default = myFunctions;
+module.exports = myFunctions;

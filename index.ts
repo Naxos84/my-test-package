@@ -19,4 +19,4 @@ const myFunctions = {
   },
 };
 
-export default myFunctions;
+export = myFunctions;
